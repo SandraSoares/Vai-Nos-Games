@@ -14,7 +14,7 @@ header {
 }
 
 .PrimeiraSessão {
-  height: 300px;
+  height: 594px;
   background-image: url("Imgs/gamer.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,4 +26,16 @@ header {
   width: 350px;
   margin-top: 20px;
   line-height: 20px;
+}
+
+nav {
+  color: red;
+  display: inline;
+  margin: 100px;
+}
+
+footer {
+  background-color: rgb(64, 64, 222);
+  padding: 2px;
+  padding-left: 10px;
 }/*# sourceMappingURL=style.css.map */
